@@ -1,0 +1,1336 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2024.5.4)  15 MAY 2025 23:23
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./presentation.tex
+(presentation.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-03-14>
+
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer
+/beamer.cls
+Document Class: beamer 2024/01/06 v3.71 A class for typesetting presentations
+
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer
+/beamerbasemodes.sty
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/etoolb
+ox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count188
+)
+\beamer@tempbox=\box51
+\beamer@tempcount=\count189
+\c@beamerpauses=\count190
+
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer
+/beamerbasedecode.sty
+\beamer@slideinframe=\count191
+\beamer@minimum=\count192
+\beamer@decode@box=\box52
+)
+\beamer@commentbox=\box53
+\beamer@modecount=\count193
+)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/generic/ifte
+x/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+\headdp=\dimen140
+\footheight=\dimen141
+\sidebarheight=\dimen142
+\beamer@tempdim=\dimen143
+\beamer@finalheight=\dimen144
+\beamer@animht=\dimen145
+\beamer@animdp=\dimen146
+\beamer@animwd=\dimen147
+\beamer@leftmargin=\dimen148
+\beamer@rightmargin=\dimen149
+\beamer@leftsidebar=\dimen150
+\beamer@rightsidebar=\dimen151
+\beamer@boxsize=\dimen152
+\beamer@vboxoffset=\dimen153
+\beamer@descdefault=\dimen154
+\beamer@descriptionwidth=\dimen155
+\beamer@lastskip=\skip48
+\beamer@areabox=\box54
+\beamer@animcurrent=\box55
+\beamer@animshowbox=\box56
+\beamer@sectionbox=\box57
+\beamer@logobox=\box58
+\beamer@linebox=\box59
+\beamer@sectioncount=\count194
+\beamer@subsubsectionmax=\count195
+\beamer@subsectionmax=\count196
+\beamer@sectionmax=\count197
+\beamer@totalheads=\count198
+\beamer@headcounter=\count199
+\beamer@partstartpage=\count266
+\beamer@sectionstartpage=\count267
+\beamer@subsectionstartpage=\count268
+\beamer@animationtempa=\count269
+\beamer@animationtempb=\count270
+\beamer@xpos=\count271
+\beamer@ypos=\count272
+\beamer@ypos@offset=\count273
+\beamer@showpartnumber=\count274
+\beamer@currentsubsection=\count275
+\beamer@coveringdepth=\count276
+\beamer@sectionadjust=\count277
+\beamer@toclastsection=\count278
+\beamer@tocsectionnumber=\count279
+
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer
+/beamerbaseoptions.sty
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphi
+cs/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+))
+\beamer@paperwidth=\skip49
+\beamer@paperheight=\skip50
+
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/geomet
+ry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/generic/ifte
+x/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count280
+\Gm@cntv=\count281
+\c@Gm@tempcnt=\count282
+\Gm@bindingoffset=\dimen156
+\Gm@wd@mp=\dimen157
+\Gm@odd@mp=\dimen158
+\Gm@even@mp=\dimen159
+\Gm@layoutwidth=\dimen160
+\Gm@layoutheight=\dimen161
+\Gm@layouthoffset=\dimen162
+\Gm@layoutvoffset=\dimen163
+\Gm@dimlist=\toks18
+
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/geomet
+ry/geometry.cfg))
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/ma
+th/pgfmath.sty
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/ut
+ilities/pgfrcs.sty
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/
+utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks19
+\pgfutil@tempdima=\dimen164
+\pgfutil@tempdimb=\dimen165
+)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/
+utilities/pgfutil-latex.def
+\pgfutil@abb=\box60
+)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/
+utilities/pgfrcs.code.tex
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/
+pgf.revision.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+))
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/ut
+ilities/pgfkeys.sty
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/
+utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks20
+\pgfkeys@temptoks=\toks21
+
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/
+utilities/pgfkeyslibraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks22
+)))
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/
+math/pgfmath.code.tex
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/
+math/pgfmathutil.code.tex
+\pgf@x=\dimen166
+\pgf@xa=\dimen167
+\pgf@xb=\dimen168
+\pgf@xc=\dimen169
+\pgf@y=\dimen170
+\pgf@ya=\dimen171
+\pgf@yb=\dimen172
+\pgf@yc=\dimen173
+\c@pgf@counta=\count283
+\c@pgf@countb=\count284
+\c@pgf@countc=\count285
+\c@pgf@countd=\count286
+)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/
+math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen174
+\pgfmath@count=\count287
+\pgfmath@box=\box61
+\pgfmath@toks=\toks23
+\pgfmath@stack@operand=\toks24
+\pgfmath@stack@operation=\toks25
+)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/
+math/pgfmathfunctions.code.tex)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/
+math/pgfmathfunctions.basic.code.tex)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/
+math/pgfmathfunctions.trigonometric.code.tex)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/
+math/pgfmathfunctions.random.code.tex)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/
+math/pgfmathfunctions.comparison.code.tex)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/
+math/pgfmathfunctions.base.code.tex)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/
+math/pgfmathfunctions.round.code.tex)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/
+math/pgfmathfunctions.misc.code.tex)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/
+math/pgfmathfunctions.integerarithmetics.code.tex)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/
+math/pgfmathcalc.code.tex)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/
+math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count288
+)))
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/extsiz
+es/size8.clo
+File: size8.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
+)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/ba
+siclayer/pgfcore.sty
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphi
+cs/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphi
+cs/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphi
+cs/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphi
+cs-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphi
+cs-def/pdftex.def
+File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen175
+\Gin@req@width=\dimen176
+)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/sy
+stemlayer/pgfsys.sty
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/
+systemlayer/pgfsys.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+\pgf@x=\dimen177
+\pgf@y=\dimen178
+\pgf@xa=\dimen179
+\pgf@ya=\dimen180
+\pgf@xb=\dimen181
+\pgf@yb=\dimen182
+\pgf@xc=\dimen183
+\pgf@yc=\dimen184
+\pgf@xd=\dimen185
+\pgf@yd=\dimen186
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count289
+\c@pgf@countb=\count290
+\c@pgf@countc=\count291
+\c@pgf@countd=\count292
+\t@pgf@toka=\toks26
+\t@pgf@tokb=\toks27
+\t@pgf@tokc=\toks28
+\pgf@sys@id@count=\count293
+
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/
+systemlayer/pgf.cfg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/
+systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
+
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/
+systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+)))
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/
+systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count294
+\pgfsyssoftpath@bigbuffer@items=\count295
+)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/
+systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xcolor
+/xcolor.sty
+Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
+
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphi
+cs-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphi
+cs/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
+Package xcolor Info: Model `RGB' extended on input line 1366.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
+)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/
+basiclayer/pgfcore.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/
+math/pgfint.code.tex)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/
+basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen187
+\pgf@picmaxx=\dimen188
+\pgf@picminy=\dimen189
+\pgf@picmaxy=\dimen190
+\pgf@pathminx=\dimen191
+\pgf@pathmaxx=\dimen192
+\pgf@pathminy=\dimen193
+\pgf@pathmaxy=\dimen194
+\pgf@xx=\dimen195
+\pgf@xy=\dimen196
+\pgf@yx=\dimen197
+\pgf@yy=\dimen198
+\pgf@zx=\dimen199
+\pgf@zy=\dimen256
+)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/
+basiclayer/pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen257
+\pgf@path@lasty=\dimen258
+)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/
+basiclayer/pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen259
+\pgf@shorten@start@additional=\dimen260
+)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/
+basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box62
+\pgf@hbox=\box63
+\pgf@layerbox@main=\box64
+\pgf@picture@serial@count=\count296
+)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/
+basiclayer/pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen261
+)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/
+basiclayer/pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen262
+\pgf@pt@y=\dimen263
+\pgf@pt@temp=\dimen264
+)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/
+basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/
+basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/
+basiclayer/pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/
+basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen265
+)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/
+basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen266
+\pgf@sys@shading@range@num=\count297
+\pgf@shadingcount=\count298
+)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/
+basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/
+basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box65
+)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/
+basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/
+basiclayer/pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/
+basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/
+basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/ut
+ilities/xxcolor.sty
+Package: xxcolor 2003/10/24 ver 0.1
+\XC@nummixins=\count299
+\XC@countmixins=\count300
+)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/a
+tbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperr
+ef/hyperref.sty
+Package: hyperref 2024-01-20 v7.01h Hypertext links for LaTeX
+
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kvsetk
+eys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/generic/kvde
+finekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pdfe
+scape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/generic/ltxc
+mds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pdft
+excmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/generic/infw
+arerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+))
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hycolo
+r/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/auxhoo
+k/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperr
+ef/nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/refcou
+nt/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/generic/gett
+itlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kvopti
+ons/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count301
+)
+\@linkdim=\dimen267
+\Hy@linkcounter=\count302
+\Hy@pagecounter=\count303
+
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperr
+ef/pd1enc.def
+File: pd1enc.def 2024-01-20 v7.01h Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/generic/intc
+alc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count304
+
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperr
+ef/puenc.def
+File: puenc.def 2024-01-20 v7.01h Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `bookmarks' set `true' on input line 4062.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 4062.
+Package hyperref Info: Option `implicit' set `false' on input line 4062.
+Package hyperref Info: Hyper figures OFF on input line 4179.
+Package hyperref Info: Link nesting OFF on input line 4184.
+Package hyperref Info: Hyper index ON on input line 4187.
+Package hyperref Info: Plain pages OFF on input line 4194.
+Package hyperref Info: Backreferencing OFF on input line 4199.
+Package hyperref Info: Implicit mode OFF; no redefinition of LaTeX internals.
+Package hyperref Info: Bookmarks ON on input line 4446.
+\c@Hy@tempcnt=\count305
+
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/url/ur
+l.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4784.
+\XeTeXLinkMargin=\dimen268
+
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/generic/bits
+et/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/generic/bigi
+ntcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count306
+\Field@Width=\dimen269
+\Fld@charsize=\dimen270
+Package hyperref Info: Hyper figures OFF on input line 6063.
+Package hyperref Info: Link nesting OFF on input line 6068.
+Package hyperref Info: Hyper index ON on input line 6071.
+Package hyperref Info: backreferencing OFF on input line 6078.
+Package hyperref Info: Link coloring OFF on input line 6083.
+Package hyperref Info: Link coloring with OCG OFF on input line 6088.
+Package hyperref Info: PDF/A mode OFF on input line 6093.
+\Hy@abspage=\count307
+
+
+Package hyperref Message: Stopped early.
+
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperr
+ef/hpdftex.def
+File: hpdftex.def 2024-01-20 v7.01h Hyperref driver for pdfTeX
+
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/a
+tveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count308
+\c@bookmark@seq@number=\count309
+
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/rerunf
+ilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/generic/uniq
+uecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+))
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer
+/beamerbaserequires.sty
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer
+/beamerbasecompatibility.sty)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer
+/beamerbasefont.sty
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfon
+ts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfon
+ts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks29
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/sansma
+thaccent/sansmathaccent.sty
+Package: sansmathaccent 2020/01/31
+
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/koma-s
+cript/scrlfile.sty
+Package: scrlfile 2023/07/07 v3.41 KOMA-Script package (file load hooks)
+
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/koma-s
+cript/scrlfile-hook.sty
+Package: scrlfile-hook 2023/07/07 v3.41 KOMA-Script package (using LaTeX hooks)
+
+
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/koma-s
+cript/scrlogo.sty
+Package: scrlogo 2023/07/07 v3.41 KOMA-Script package (logo)
+)))))
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer
+/beamerbasetranslator.sty
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/transl
+ator/translator.sty
+Package: translator 2021-05-31 v1.12d Easy translation of strings in LaTeX
+))
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer
+/beamerbasemisc.sty)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer
+/beamerbasetwoscreens.sty)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer
+/beamerbaseoverlay.sty
+\beamer@argscount=\count310
+\beamer@lastskipcover=\skip51
+\beamer@trivlistdepth=\count311
+)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer
+/beamerbasetitle.sty)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer
+/beamerbasesection.sty
+\c@lecture=\count312
+\c@part=\count313
+\c@section=\count314
+\c@subsection=\count315
+\c@subsubsection=\count316
+)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer
+/beamerbaseframe.sty
+\beamer@framebox=\box66
+\beamer@frametitlebox=\box67
+\beamer@zoombox=\box68
+\beamer@zoomcount=\count317
+\beamer@zoomframecount=\count318
+\beamer@frametextheight=\dimen271
+\c@subsectionslide=\count319
+\beamer@frametopskip=\skip52
+\beamer@framebottomskip=\skip53
+\beamer@frametopskipautobreak=\skip54
+\beamer@framebottomskipautobreak=\skip55
+\beamer@envbody=\toks30
+\framewidth=\dimen272
+\c@framenumber=\count320
+)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer
+/beamerbaseverbatim.sty
+\beamer@verbatimfileout=\write4
+)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer
+/beamerbaseframesize.sty
+\beamer@splitbox=\box69
+\beamer@autobreakcount=\count321
+\beamer@autobreaklastheight=\dimen273
+\beamer@frametitletoks=\toks31
+\beamer@framesubtitletoks=\toks32
+)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer
+/beamerbaseframecomponents.sty
+\beamer@footins=\box70
+)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer
+/beamerbasecolor.sty)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer
+/beamerbasenotes.sty
+\beamer@frameboxcopy=\box71
+)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer
+/beamerbasetoc.sty)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer
+/beamerbasetemplates.sty
+\beamer@sbttoks=\toks33
+
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer
+/beamerbaseauxtemplates.sty
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer
+/beamerbaseboxes.sty
+\bmb@box=\box72
+\bmb@colorbox=\box73
+\bmb@boxwidth=\dimen274
+\bmb@boxheight=\dimen275
+\bmb@prevheight=\dimen276
+\bmb@temp=\dimen277
+\bmb@dima=\dimen278
+\bmb@dimb=\dimen279
+\bmb@prevheight=\dimen280
+)
+\beamer@blockheadheight=\dimen281
+))
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer
+/beamerbaselocalstructure.sty
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/
+enumerate.sty
+Package: enumerate 2023/07/04 v3.00 enumerate extensions (DPC)
+\@enLab=\toks34
+)
+\beamer@bibiconwidth=\skip56
+\c@figure=\count322
+\c@table=\count323
+\abovecaptionskip=\skip57
+\belowcaptionskip=\skip58
+)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer
+/beamerbasenavigation.sty
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer
+/beamerbasenavigationsymbols.tex)
+\beamer@section@min@dim=\dimen282
+)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer
+/beamerbasetheorems.sty
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmat
+h/amsmath.sty
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip59
+
+For additional information on amsmath, use the `?' option.
+
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmat
+h/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmat
+h/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks35
+\ex@=\dimen283
+))
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmat
+h/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen284
+)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmat
+h/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count324
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count325
+\leftroot@=\count326
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count327
+\DOTSCASE@=\count328
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box74
+\strutbox@=\box75
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen285
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count329
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count330
+\dotsspace@=\muskip17
+\c@parentequation=\count331
+\dspbrk@lvl=\count332
+\tag@help=\toks36
+\row@=\count333
+\column@=\count334
+\maxfields@=\count335
+\andhelp@=\toks37
+\eqnshift@=\dimen286
+\alignsep@=\dimen287
+\tagshift@=\dimen288
+\tagwidth@=\dimen289
+\totwidth@=\dimen290
+\lineht@=\dimen291
+\@envbody=\toks38
+\multlinegap=\skip60
+\multlinetaggap=\skip61
+\mathdisplay@stack=\toks39
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amscls
+/amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks40
+\thm@bodyfont=\toks41
+\thm@headfont=\toks42
+\thm@notefont=\toks43
+\thm@headpunct=\toks44
+\thm@preskip=\skip62
+\thm@postskip=\skip63
+\thm@headsep=\skip64
+\dth@everypar=\toks45
+)
+\c@theorem=\count336
+)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer
+/beamerbasethemes.sty))
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer
+/beamerthemedefault.sty
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer
+/beamerfontthemedefault.sty)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer
+/beamercolorthemedefault.sty)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer
+/beamerinnerthemedefault.sty
+\beamer@dima=\dimen292
+\beamer@dimb=\dimen293
+)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer
+/beamerouterthemedefault.sty)))
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer
+/beamerthemeCambridgeUS.sty
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer
+/beamerinnerthemerounded.sty)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer
+/beamerouterthemeinfolines.sty)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer
+/beamercolorthemebeaver.sty))
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/beamer
+/beamerinnerthemerectangles.sty)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/i
+nputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks46
+\inpenc@posthook=\toks47
+)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/f
+ontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/generic/babe
+l/babel.sty
+Package: babel 2024/04/20 v24.4 The Babel package
+\babel@savecnt=\count337
+\U@D=\dimen294
+\l@unhyphenated=\language79
+
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/generic/babe
+l/txtbabel.def)
+\bbl@readstream=\read3
+LaTeX Info: Redefining \textlatin on input line 3930.
+\bbl@dirlevel=\count338
+
+*************************************
+* Local config file bblopts.cfg used
+*
+
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/arabi/
+bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/babel-
+german/ngerman.ldf
+Language: ngerman 2024/01/19 v2.14 German support for babel (post-1996 orthogra
+phy)
+
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/babel-
+german/ngermanb.ldf
+Language: ngermanb 2024/01/19 v2.14 German support for babel (post-1996 orthogr
+aphy)
+Package babel Info: Making " an active character on input line 122.
+)))
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/generic/babe
+l/locale/de/babel-ngerman.tex
+Package babel Info: Importing font and identification data for ngerman
+(babel)             from babel-de.ini. Reported on input line 11.
+)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/csquot
+es/csquotes.sty
+Package: csquotes 2024-04-04 v5.2o context-sensitive quotations (JAW)
+\csq@reset=\count339
+\csq@gtype=\count340
+\csq@glevel=\count341
+\csq@qlevel=\count342
+\csq@maxlvl=\count343
+\csq@tshold=\count344
+\csq@ltx@everypar=\toks48
+
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/csquot
+es/csquotes.def
+File: csquotes.def 2024-04-04 v5.2o csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/csquot
+es/csquotes.cfg
+File: csquotes.cfg 
+)
+Package csquotes Info: Option 'babel' depreciated.
+(csquotes)             Using 'autostyle'.
+Package csquotes Info: Enabling multilingual quotes.
+Package csquotes Info: Redefining alias 'german' -> 'german/quotes'.
+)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lm/lmo
+dern.sty
+Package: lmodern 2015/05/01 v1.6.1 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/framed
+/framed.sty
+Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
+\OuterFrameSep=\skip65
+\fb@frw=\dimen295
+\fb@frh=\dimen296
+\FrameRule=\dimen297
+\FrameSep=\dimen298
+)
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... found 'babel' package.
+LaTeX Font Info:    Trying to load font information for T1+lmss on input line 3
+1.
+
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lm/t1l
+mss.fd
+File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3back
+end/l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-03-14 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count345
+\l__pdf_internal_box=\box76
+) (presentation.aux)
+\openout1 = `presentation.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includehead includefoot 
+* h-part:(L,W,R)=(8.50012pt, 347.19511pt, 8.50012pt)
+* v-part:(T,H,B)=(0.0pt, 273.14662pt, 0.0pt)
+* \paperwidth=364.19536pt
+* \paperheight=273.14662pt
+* \textwidth=347.19511pt
+* \textheight=244.6939pt
+* \oddsidemargin=-63.76987pt
+* \evensidemargin=-63.76987pt
+* \topmargin=-72.26999pt
+* \headheight=14.22636pt
+* \headsep=0.0pt
+* \topskip=9.0pt
+* \footskip=14.22636pt
+* \marginparwidth=4.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=7.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/context/base
+/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count346
+\scratchdimen=\dimen299
+\scratchbox=\box77
+\nofMPsegments=\count347
+\nofMParguments=\count348
+\everyMPshowfont=\toks49
+\MPscratchCnt=\count349
+\MPscratchDim=\dimen300
+\MPnumerator=\count350
+\makeMPintoPDFobject=\count351
+\everyMPtoPDFconversion=\toks50
+)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/epstop
+df-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/00mikt
+ex/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package hyperref Info: Link coloring OFF on input line 31.
+ (presentation.out) (presentation.out)
+\@outlinefile=\write5
+\openout5 = `presentation.out'.
+
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/lmr/m/n --> OT1/cmss/m/n on input line 31.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/lmr/bx/n --> OT1/cmss/b/n on input line 31.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 31.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmss/b/n --> OT1/lmss/b/n on input line 31.
+\symnumbers=\mathgroup6
+\sympureletters=\mathgroup7
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
+(Font)                  OT1/lmss/m/n --> T1/lmr/m/n on input line 31.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/lmr/bx/n --> T1/lmss/b/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/lmr/bx/n --> T1/lmss/b/n on input line 31.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/lmss/m/n --> T1/lmss/m/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/lmss/bx/n --> T1/lmss/m/n on input line 31.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/lmr/m/it --> T1/lmss/m/it on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/lmr/bx/it --> T1/lmss/m/it on input line 31.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/lmtt/m/n --> T1/lmtt/m/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/lmtt/m/n --> T1/lmtt/m/n on input line 31.
+LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
+(Font)                  T1/lmss/m/n --> T1/lmss/b/n on input line 31.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
+(Font)                  T1/lmss/m/it --> T1/lmss/b/it on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
+(Font)                  OT1/lmss/b/n --> T1/lmr/b/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  T1/lmss/b/n --> T1/lmss/b/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  T1/lmss/m/n --> T1/lmss/b/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  T1/lmss/m/it --> T1/lmss/b/it on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  T1/lmtt/m/n --> T1/lmtt/b/n on input line 31.
+
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/transl
+ator/translator-basic-dictionary-English.dict
+Dictionary: translator-basic-dictionary, Language: English 
+)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/transl
+ator/translator-bibliography-dictionary-English.dict
+Dictionary: translator-bibliography-dictionary, Language: English 
+)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/transl
+ator/translator-environment-dictionary-English.dict
+Dictionary: translator-environment-dictionary, Language: English 
+)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/transl
+ator/translator-months-dictionary-English.dict
+Dictionary: translator-months-dictionary, Language: English 
+)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/transl
+ator/translator-numbers-dictionary-English.dict
+Dictionary: translator-numbers-dictionary, Language: English 
+)
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/transl
+ator/translator-theorem-dictionary-English.dict
+Dictionary: translator-theorem-dictionary, Language: English 
+) (presentation.nav) [1
+
+{/Users/yoda/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/pd
+ftex.map}] (presentation.toc) [2
+
+] (presentation.toc) [3
+
+]
+LaTeX Font Info:    Trying to load font information for OT1+lmss on input line 
+58.
+
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lm/ot1
+lmss.fd
+File: ot1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 5
+8.
+
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lm/oml
+lmm.fd
+File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
+58.
+
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lm/oms
+lmsy.fd
+File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
+58.
+
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lm/omx
+lmex.fd
+File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 58.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 58.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 58.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 58.
+
+
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfon
+ts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 58.
+
+
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfon
+ts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <8> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 58.
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <6> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 58.
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <5> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 58.
+ [4
+
+]
+<msn.jpg, id=173, 364.2408pt x 398.9304pt>
+File: msn.jpg Graphic file (type jpg)
+<use msn.jpg>
+Package pdftex.def Info: msn.jpg  used on input line 69.
+(pdftex.def)             Requested size: 182.11995pt x 199.4647pt.
+
+Overfull \vbox (2.7097pt too high) detected at line 69
+ []
+
+[5
+
+ <./msn.jpg>]
+<feinstaub.jpg, id=203, 2047.65pt x 1535.7375pt>
+File: feinstaub.jpg Graphic file (type jpg)
+<use feinstaub.jpg>
+Package pdftex.def Info: feinstaub.jpg  used on input line 79.
+(pdftex.def)             Requested size: 327.63069pt x 245.72302pt.
+
+Overfull \vbox (48.96802pt too high) detected at line 79
+ []
+
+[6
+
+ <./feinstaub.jpg>]
+<wald.jpg, id=232, 1905.1175pt x 929.4725pt>
+File: wald.jpg Graphic file (type jpg)
+<use wald.jpg>
+Package pdftex.def Info: wald.jpg  used on input line 87.
+(pdftex.def)             Requested size: 342.90636pt x 167.29784pt.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 87.
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 87.
+ [7
+
+ <./wald.jpg>] (presentation.toc) [8
+
+]
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 1
+25.
+
+(/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lm/t1l
+mtt.fd
+File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+Underfull \hbox (badness 10000) in paragraph at lines 125--125
+\T1/lmss/m/n/8 Woh-nun-gen ver-sorgt wer-den
+ []
+
+
+Underfull \hbox (badness 1303) in paragraph at lines 125--125
+\T1/lmss/m/n/8 k^^f6n-nen und re-du-zie-ren da-mit
+ []
+
+
+Underfull \hbox (badness 7362) in paragraph at lines 125--125
+\T1/lmss/m/n/8 j^^e4hr-lich $\T1/lmss/m/sl/8 CO[]$\T1/lmss/m/n/8 -Einsparung vo
+n
+ []
+
+[9
+
+]
+Underfull \hbox (badness 1062) in paragraph at lines 159--159
+[]\T1/lmss/m/n/8 Durch die lo-ka-le ener-ge-ti-sche
+ []
+
+[10
+
+]
+Underfull \hbox (badness 1824) in paragraph at lines 192--192
+\T1/lmss/m/n/8 lo-ka-ler Kreis-l-auf-wirt-schaft vor
+ []
+
+[11
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 227--227
+\T1/lmss/m/n/8 in-ter-na-tio-na-len Energie- und
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 227--227
+\T1/lmss/m/n/8 f^^fcr Preis-sta-bi-li-t^^e4t bei den
+ []
+
+[12
+
+]
+Underfull \hbox (badness 2393) in paragraph at lines 257--257
+\T1/lmss/m/n/8 stra-^^ffe, di-rekt an-gren-zend an
+ []
+
+
+Underfull \hbox (badness 2205) in paragraph at lines 257--257
+\T1/lmss/m/n/8 Hol-ding Graz, in ei-ne nach-
+ []
+
+
+Underfull \hbox (badness 2119) in paragraph at lines 257--257
+\T1/lmss/m/n/8 zie-ren wir ganz-j^^e4h-rig W^^e4r-me
+ []
+
+[13
+
+] (presentation.toc) [14
+
+] [15
+
+] (presentation.toc) [16
+
+] [17
+
+]
+\tf@nav=\write6
+\openout6 = `presentation.nav'.
+
+\tf@toc=\write7
+\openout7 = `presentation.toc'.
+
+\tf@snm=\write8
+\openout8 = `presentation.snm'.
+
+
+(presentation.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-03-14>
+ ***********
+Package rerunfilecheck Info: File `presentation.out' has not changed.
+(rerunfilecheck)             Checksum: 699E22D2F6D6002AE5F085DC64455E3A;851.
+ ) 
+Here is how much of TeX's memory you used:
+ 23891 strings out of 474424
+ 471401 string characters out of 5733746
+ 1943493 words of memory out of 5000000
+ 45667 multiletter control sequences out of 15000+600000
+ 602975 words of font info for 71 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 128i,16n,123p,415b,658s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{/Users/yoda/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvip
+s/lm/lm-ec.enc}</Users/yoda/Library/Application Support/MiKTeX/texmfs/install/f
+onts/type1/public/lm/lmss10.pfb></Users/yoda/Library/Application Support/MiKTeX
+/texmfs/install/fonts/type1/public/lm/lmss8.pfb></Users/yoda/Library/Applicatio
+n Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmssbx10.pfb></Users/yoda
+/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmsso1
+0.pfb></Users/yoda/Library/Application Support/MiKTeX/texmfs/install/fonts/type
+1/public/lm/lmsso8.pfb></Users/yoda/Library/Application Support/MiKTeX/texmfs/i
+nstall/fonts/type1/public/lm/lmtt8.pfb>
+Output written on presentation.pdf (17 pages, 1844476 bytes).
+PDF statistics:
+ 603 PDF objects out of 1000 (max. 8388607)
+ 39 named destinations out of 1000 (max. 500000)
+ 126 words of extra memory for PDF output out of 10000 (max. 10000000)
+

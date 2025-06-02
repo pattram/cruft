@@ -1,0 +1,5 @@
+\babel@toc {ngerman}{}\relax 
+\beamer@sectionintoc {1}{Was plant die Stadt Graz?}{3}{0}{1}
+\beamer@sectionintoc {2}{Eine Gegen^^c3^^bcberstellung wichtiger Argumente}{8}{0}{2}
+\beamer@sectionintoc {3}{Zentrale Argumente der B^^c3^^bcrgerinitiative}{14}{0}{3}
+\beamer@sectionintoc {4}{Weitere Vorgehensweise}{16}{0}{4}
